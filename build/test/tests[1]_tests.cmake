@@ -1,0 +1,5 @@
+add_test( pluginTest.readLib [==[/home/pc/Desktop/qt cmake dlib/build/test/tests]==] [==[--gtest_filter=pluginTest.readLib]==] --gtest_also_run_disabled_tests)
+set_tests_properties( pluginTest.readLib PROPERTIES WORKING_DIRECTORY [==[/home/pc/Desktop/qt cmake dlib/build/test]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+add_test( pluginTest.useLib [==[/home/pc/Desktop/qt cmake dlib/build/test/tests]==] [==[--gtest_filter=pluginTest.useLib]==] --gtest_also_run_disabled_tests)
+set_tests_properties( pluginTest.useLib PROPERTIES WORKING_DIRECTORY [==[/home/pc/Desktop/qt cmake dlib/build/test]==] SKIP_REGULAR_EXPRESSION [==[\[  SKIPPED \]]==])
+set( tests_TESTS pluginTest.readLib pluginTest.useLib)

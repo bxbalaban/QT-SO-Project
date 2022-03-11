@@ -1,0 +1,276 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "app",
+					"jsonFile" : "directory-app-Debug-94c5f210ca04b1028ae5.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "app",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"build" : "dlib",
+					"jsonFile" : "directory-dlib-Debug-67e469463592253a872a.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "dlib",
+					"targetIndexes" : 
+					[
+						2,
+						7
+					]
+				},
+				{
+					"build" : "dlib2",
+					"jsonFile" : "directory-dlib2-Debug-0cbb2a6b8ad9fae95925.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "dlib2",
+					"targetIndexes" : 
+					[
+						3,
+						4
+					]
+				},
+				{
+					"build" : "dlib3",
+					"jsonFile" : "directory-dlib3-Debug-0682340460c52d4e7c07.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.2.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 4,
+					"source" : "dlib3",
+					"targetIndexes" : 
+					[
+						5,
+						6
+					]
+				},
+				{
+					"build" : "test",
+					"jsonFile" : "directory-test-Debug-451c0598f41488bb20b9.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.1"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 5,
+					"source" : "test",
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3,
+						4,
+						5
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "hebelegubele"
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "app",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "dlib",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						7
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "dlib2",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						3,
+						4
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						4
+					],
+					"name" : "dlib3",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						5,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						5
+					],
+					"name" : "tests",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "app::@5f5a17c01335469806cb",
+					"jsonFile" : "target-app-Debug-238c5564d00777a7dcce.json",
+					"name" : "app",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "app_autogen::@5f5a17c01335469806cb",
+					"jsonFile" : "target-app_autogen-Debug-aac808d8eb1ee7b38221.json",
+					"name" : "app_autogen",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dlib::@d59d9d6a55c67f754d23",
+					"jsonFile" : "target-dlib-Debug-3f231f8ee5abc9be926e.json",
+					"name" : "dlib",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "dlib2::@a3d0c8bdc1f3cc6c2d20",
+					"jsonFile" : "target-dlib2-Debug-595705694a95bfed0486.json",
+					"name" : "dlib2",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "dlib2_autogen::@a3d0c8bdc1f3cc6c2d20",
+					"jsonFile" : "target-dlib2_autogen-Debug-05d8fe88e40b2a802582.json",
+					"name" : "dlib2_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "dlib3::@17e1fd799ababd2117b5",
+					"jsonFile" : "target-dlib3-Debug-3677d362193508946628.json",
+					"name" : "dlib3",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "dlib3_autogen::@17e1fd799ababd2117b5",
+					"jsonFile" : "target-dlib3_autogen-Debug-b0a2d564a415cec5565d.json",
+					"name" : "dlib3_autogen",
+					"projectIndex" : 4
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "dlib_autogen::@d59d9d6a55c67f754d23",
+					"jsonFile" : "target-dlib_autogen-Debug-e9ad4824fe919cfd8757.json",
+					"name" : "dlib_autogen",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "tests::@36f028580bb02cc8272a",
+					"jsonFile" : "target-tests-Debug-b992ec05f3942131895d.json",
+					"name" : "tests",
+					"projectIndex" : 5
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "tests_autogen::@36f028580bb02cc8272a",
+					"jsonFile" : "target-tests_autogen-Debug-b7514c89da5fcba8b4ad.json",
+					"name" : "tests_autogen",
+					"projectIndex" : 5
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/pc/Desktop/qt cmake dlib/build",
+		"source" : "/home/pc/Desktop/qt cmake dlib"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

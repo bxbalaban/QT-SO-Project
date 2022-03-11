@@ -1,0 +1,1 @@
+/usr/bin/g++ -g -rdynamic CMakeFiles/tests.dir/tests_autogen/mocs_compilation.cpp.o CMakeFiles/tests.dir/test.cpp.o -o tests  -Wl,-rpath,/home/pc/Qt/5.15.2/gcc_64/lib /home/pc/Qt/5.15.2/gcc_64/lib/libQt5Widgets.so.5.15.2 -lgtest_main -lgtest -lpthread /home/pc/Qt/5.15.2/gcc_64/lib/libQt5Gui.so.5.15.2 /home/pc/Qt/5.15.2/gcc_64/lib/libQt5Core.so.5.15.2 

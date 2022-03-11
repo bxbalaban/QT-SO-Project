@@ -1,0 +1,1 @@
+/usr/bin/g++ -fPIC -g -shared -Wl,-soname,libdlib3.so -o ../../Libs/libdlib3.so CMakeFiles/dlib3.dir/dlib3_autogen/mocs_compilation.cpp.o CMakeFiles/dlib3.dir/test-plugin.cpp.o  -Wl,-rpath,/home/pc/Qt/5.15.2/gcc_64/lib /home/pc/Qt/5.15.2/gcc_64/lib/libQt5Widgets.so.5.15.2 /home/pc/Qt/5.15.2/gcc_64/lib/libQt5Gui.so.5.15.2 /home/pc/Qt/5.15.2/gcc_64/lib/libQt5Core.so.5.15.2 

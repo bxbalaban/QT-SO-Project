@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/pc/Desktop/qt cmake dlib/build/app",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"/home/pc/Desktop/qt cmake dlib/build/app\" -I\"/home/pc/Desktop/qt cmake dlib/app\" -I\"/home/pc/Desktop/qt cmake dlib/build/app/app_autogen/include\" -isystem /home/pc/Qt/5.15.2/gcc_64/include -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtGui -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/pc/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -std=c++11 -fPIC -o CMakeFiles/app.dir/app_autogen/mocs_compilation.cpp.o -c \"/home/pc/Desktop/qt cmake dlib/build/app/app_autogen/mocs_compilation.cpp\"",
+  "file": "/home/pc/Desktop/qt cmake dlib/build/app/app_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/pc/Desktop/qt cmake dlib/build/app",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"/home/pc/Desktop/qt cmake dlib/build/app\" -I\"/home/pc/Desktop/qt cmake dlib/app\" -I\"/home/pc/Desktop/qt cmake dlib/build/app/app_autogen/include\" -isystem /home/pc/Qt/5.15.2/gcc_64/include -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtGui -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/pc/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -std=c++11 -fPIC -o CMakeFiles/app.dir/main.cpp.o -c \"/home/pc/Desktop/qt cmake dlib/app/main.cpp\"",
+  "file": "/home/pc/Desktop/qt cmake dlib/app/main.cpp"
+},
+{
+  "directory": "/home/pc/Desktop/qt cmake dlib/build/dlib",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -Ddlib_EXPORTS -I\"/home/pc/Desktop/qt cmake dlib/build/dlib\" -I\"/home/pc/Desktop/qt cmake dlib/dlib\" -I\"/home/pc/Desktop/qt cmake dlib/build/dlib/dlib_autogen/include\" -isystem /home/pc/Qt/5.15.2/gcc_64/include -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtGui -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/pc/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=c++11 -fPIC -o CMakeFiles/dlib.dir/dlib_autogen/mocs_compilation.cpp.o -c \"/home/pc/Desktop/qt cmake dlib/build/dlib/dlib_autogen/mocs_compilation.cpp\"",
+  "file": "/home/pc/Desktop/qt cmake dlib/build/dlib/dlib_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/pc/Desktop/qt cmake dlib/build/dlib",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -Ddlib_EXPORTS -I\"/home/pc/Desktop/qt cmake dlib/build/dlib\" -I\"/home/pc/Desktop/qt cmake dlib/dlib\" -I\"/home/pc/Desktop/qt cmake dlib/build/dlib/dlib_autogen/include\" -isystem /home/pc/Qt/5.15.2/gcc_64/include -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtGui -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/pc/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=c++11 -fPIC -o CMakeFiles/dlib.dir/test-plugin.cpp.o -c \"/home/pc/Desktop/qt cmake dlib/dlib/test-plugin.cpp\"",
+  "file": "/home/pc/Desktop/qt cmake dlib/dlib/test-plugin.cpp"
+},
+{
+  "directory": "/home/pc/Desktop/qt cmake dlib/build/dlib2",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -Ddlib2_EXPORTS -I\"/home/pc/Desktop/qt cmake dlib/build/dlib2\" -I\"/home/pc/Desktop/qt cmake dlib/dlib2\" -I\"/home/pc/Desktop/qt cmake dlib/build/dlib2/dlib2_autogen/include\" -isystem /home/pc/Qt/5.15.2/gcc_64/include -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtGui -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/pc/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=c++11 -fPIC -o CMakeFiles/dlib2.dir/dlib2_autogen/mocs_compilation.cpp.o -c \"/home/pc/Desktop/qt cmake dlib/build/dlib2/dlib2_autogen/mocs_compilation.cpp\"",
+  "file": "/home/pc/Desktop/qt cmake dlib/build/dlib2/dlib2_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/pc/Desktop/qt cmake dlib/build/dlib2",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -Ddlib2_EXPORTS -I\"/home/pc/Desktop/qt cmake dlib/build/dlib2\" -I\"/home/pc/Desktop/qt cmake dlib/dlib2\" -I\"/home/pc/Desktop/qt cmake dlib/build/dlib2/dlib2_autogen/include\" -isystem /home/pc/Qt/5.15.2/gcc_64/include -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtGui -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/pc/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=c++11 -fPIC -o CMakeFiles/dlib2.dir/test-plugin.cpp.o -c \"/home/pc/Desktop/qt cmake dlib/dlib2/test-plugin.cpp\"",
+  "file": "/home/pc/Desktop/qt cmake dlib/dlib2/test-plugin.cpp"
+},
+{
+  "directory": "/home/pc/Desktop/qt cmake dlib/build/dlib3",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -Ddlib3_EXPORTS -I\"/home/pc/Desktop/qt cmake dlib/build/dlib3\" -I\"/home/pc/Desktop/qt cmake dlib/dlib3\" -I\"/home/pc/Desktop/qt cmake dlib/build/dlib3/dlib3_autogen/include\" -isystem /home/pc/Qt/5.15.2/gcc_64/include -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtGui -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/pc/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=c++11 -fPIC -o CMakeFiles/dlib3.dir/dlib3_autogen/mocs_compilation.cpp.o -c \"/home/pc/Desktop/qt cmake dlib/build/dlib3/dlib3_autogen/mocs_compilation.cpp\"",
+  "file": "/home/pc/Desktop/qt cmake dlib/build/dlib3/dlib3_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/pc/Desktop/qt cmake dlib/build/dlib3",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -Ddlib3_EXPORTS -I\"/home/pc/Desktop/qt cmake dlib/build/dlib3\" -I\"/home/pc/Desktop/qt cmake dlib/dlib3\" -I\"/home/pc/Desktop/qt cmake dlib/build/dlib3/dlib3_autogen/include\" -isystem /home/pc/Qt/5.15.2/gcc_64/include -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtGui -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/pc/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -fPIC -std=c++11 -fPIC -o CMakeFiles/dlib3.dir/test-plugin.cpp.o -c \"/home/pc/Desktop/qt cmake dlib/dlib3/test-plugin.cpp\"",
+  "file": "/home/pc/Desktop/qt cmake dlib/dlib3/test-plugin.cpp"
+},
+{
+  "directory": "/home/pc/Desktop/qt cmake dlib/build/test",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"/home/pc/Desktop/qt cmake dlib/build/test\" -I\"/home/pc/Desktop/qt cmake dlib/test\" -I\"/home/pc/Desktop/qt cmake dlib/build/test/tests_autogen/include\" -isystem /home/pc/Qt/5.15.2/gcc_64/include -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtGui -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/pc/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -std=c++11 -fPIC -o CMakeFiles/tests.dir/tests_autogen/mocs_compilation.cpp.o -c \"/home/pc/Desktop/qt cmake dlib/build/test/tests_autogen/mocs_compilation.cpp\"",
+  "file": "/home/pc/Desktop/qt cmake dlib/build/test/tests_autogen/mocs_compilation.cpp"
+},
+{
+  "directory": "/home/pc/Desktop/qt cmake dlib/build/test",
+  "command": "/usr/bin/g++ -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -I\"/home/pc/Desktop/qt cmake dlib/build/test\" -I\"/home/pc/Desktop/qt cmake dlib/test\" -I\"/home/pc/Desktop/qt cmake dlib/build/test/tests_autogen/include\" -isystem /home/pc/Qt/5.15.2/gcc_64/include -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtWidgets -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtGui -isystem /home/pc/Qt/5.15.2/gcc_64/include/QtCore -isystem /home/pc/Qt/5.15.2/gcc_64/./mkspecs/linux-g++ -g -std=c++11 -fPIC -o CMakeFiles/tests.dir/test.cpp.o -c \"/home/pc/Desktop/qt cmake dlib/test/test.cpp\"",
+  "file": "/home/pc/Desktop/qt cmake dlib/test/test.cpp"
+}
+]
